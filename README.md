@@ -38,7 +38,7 @@
 
 Github Actions werden in yaml geschrieben.    
 
-YAML steht für „Yet Another Markup Language“. Es ist eine für Menschen lesbare Auszeichnungssprache, die häufig für Konfigurationsdateien verwendet wird, insbesondere von CI- und DevOps-fokussierten Softwaretools. YAML ist eine Erweiterung von JSON um syntaktisch  wichtige Zeilenumbrüche und Einrückungen, ähnlich wie auch in Python  geschrieben wird. ==Anders als in Python allerdings erlaubt YAML  keine Tabulator-Zeichen.== 
+YAML steht für „Yet Another Markup Language“. Es ist eine für Menschen lesbare Auszeichnungssprache, die häufig für Konfigurationsdateien verwendet wird, insbesondere von CI- und DevOps-fokussierten Softwaretools. YAML ist eine Erweiterung von JSON um syntaktisch  wichtige Zeilenumbrüche und Einrückungen, ähnlich wie auch in Python  geschrieben wird. ***Anders als in Python allerdings erlaubt YAML  keine Tabulator-Zeichen.*** 
 
 → [Cheat Sheet YAML](https://quickref.me/yaml.html)
 → [Cheat Sheet Git Actions](https://resources.github.com/actions/github-actions-cheat/)
